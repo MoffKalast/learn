@@ -9,7 +9,8 @@ Welcome to ubiquity-robotics-learn's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   ./index.md
+
+   index2.md
 
 
 
